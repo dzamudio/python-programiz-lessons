@@ -1,0 +1,2 @@
+global XYZ
+XYZ = 'testxyz'
